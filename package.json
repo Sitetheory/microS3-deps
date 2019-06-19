@@ -1,0 +1,20 @@
+{
+  "name": "microS3",
+  "version": "0.2.0",
+  "description": "S3 File Uploader",
+  "main": "server.js",
+  "author": "Sitetheory",
+  "private": true,
+  "license": "Private",
+  "dependencies": {
+    "aws-sdk": "^2.*",
+    "express": "^4.16.*",
+    "image-size": "^0.7.*",
+    "multer": "^1.4.*",
+    "random-js": "^2.0.*",
+    "request": "^2.88.*",
+    "request-promise-native": "^1.0.*",
+    "sharp": "^0.22.*",
+    "underscore": "^1.9.*"
+  }
+}
